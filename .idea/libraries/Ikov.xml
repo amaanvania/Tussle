@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Ikov">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/XoBot/APIs/Ikov.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xobot-2.99.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
