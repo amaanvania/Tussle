@@ -1,7 +1,7 @@
 # Tussle
 
 ## Overview  
-Tussle is a virtual robot developed in Java using the XoBot API to compete in a tournament on ikov.io. The robot was trained through extensive combat with real players, optimizing its decision-making algorithms to achieve top-tier performance.  
+Tussle is a virtual robot developed in Java using the XoBot API to compete in a tournament on ikov.io. The robot was trained through extensive combat with real players, optimizing its decision-making abilities to achieve top-tier performance.  
 
 ## Features  
 - **Virtual Robot Implementation**: Built using the XoBot API to engage in competitive combat.  
